@@ -5,23 +5,19 @@ are saved with the MongoDB Compass App.
 <br>
 <br>
 <h1>Homepage</h1>
-<img src="https://github.com/mitri-slory/enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_HomePage.jpg" width="900" height="450">
+<img src="https://github.com/mitri-slory/enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_HomePage.jpg" alt="Homepage" width="900" height="450">
 <br>
 <br>
 <br>
 <h1>Registering Account Example</h1>
-<img src="https://github.com/mitri-slory/enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_Register.gif" width="900 height="450>"
+<img src="https://github.com/mitri-slory/enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_Register.gif" alt="Registering Account Demo" width="900 height="450">
 <br>
 <br>
 <br>
 <h1>Logging into Account Example</h1>
-<img src="https://github.com/mitri-slory/enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_Login.gif" width="900 height="450>"
+<img src="https://github.com/mitri-slory/enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_Login.gif" alt="Logging into Account Demo" width="900 height="450">
 <br>
 <br>
 <br>
 <h1>Enrolling into Classes Example</h1>
-<img src="https://github.com/mitri-slory/enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_Classes.gif" width="900 height="450>"
-<br>
-<br>
-<br>
-<br>
+<img src="https://github.com/mitri-slory/enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_Classes.gif" alt="Enrolling into Classes Demo" width="900 height="450">
