@@ -124,7 +124,7 @@ def enrollment():
             Enrollment(user_id=user_id, courseID=courseID).save()
             flash(f"You are enrolled in {courseTitle}!", "success")
     
-    courses = course_list()
+    classes = course_list(user_id)
 
     return render_template("enrollment.html", enrollment=True, title="Enrollment", classes=classes)
 
