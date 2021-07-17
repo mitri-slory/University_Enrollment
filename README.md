@@ -21,3 +21,9 @@ are saved with the MongoDB Compass App.
 <br>
 <h1>Enrolling into Classes Example</h1>
 <img src="https://github.com/mitri-slory/UTA_enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_Classes.gif" alt="Enrolling into Classes Demo" width="900 height="450">
+<br>
+<br>
+<br>
+<h1>User and Enrollment Data in MongoDB</h1>
+<img src="https://github.com/mitri-slory/UTA_enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_MongoDB.gif" alt="MongoDB Demo" width="900 height="450">
+
