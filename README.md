@@ -1,4 +1,4 @@
-# UTA_enrollment
+# University_Enrollment
 A Python Flask website that resembles university websites where users can register, login, and enroll in classes. The users' account information such as their enrolled classes
 are saved with the MongoDB Compass App.
 <br>
