@@ -5,7 +5,7 @@ are saved with the MongoDB Compass App.
 <br>
 <br>
 <h1>Homepage</h1>
-<img src="https://github.com/mitri-slory/UTA_enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_HomePage.jpg" alt="Homepage" width="900" height="450">
+<img src="https://github.com/mitri-slory/University_Enrollment/blob/screenshots_demos/EnrollmentWebsite/Enrollment_HomePage_Update.jpg" alt="Homepage" width="900" height="450">
 <br>
 <br>
 <br>
